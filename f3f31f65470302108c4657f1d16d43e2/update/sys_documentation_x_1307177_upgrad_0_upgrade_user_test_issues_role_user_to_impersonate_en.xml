@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="role_user_to_impersonate" label="Role/User to Impersonate" language="en" table="x_1307177_upgrad_0_upgrade_user_test_issues">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>role_user_to_impersonate</element>
+            <help/>
+            <hint/>
+            <label>Role/User to Impersonate</label>
+            <language>en</language>
+            <name>x_1307177_upgrad_0_upgrade_user_test_issues</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-27 15:01:07</sys_created_on>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>Role/User to Impersonate</sys_name>
+            <sys_package display_value="Upgrade User Testing Issues" source="x_1307177_upgrad_0">f3f31f65470302108c4657f1d16d43e2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Upgrade User Testing Issues">f3f31f65470302108c4657f1d16d43e2</sys_scope>
+            <sys_update_name>sys_documentation_x_1307177_upgrad_0_upgrade_user_test_issues_role_user_to_impersonate_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-27 15:06:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

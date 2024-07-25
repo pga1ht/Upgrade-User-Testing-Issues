@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="324493a5470302108c4657f1d16d43bc" label="Upgrade user test issues" max_length="40" name="x_1307177_upgrad_0_upgrade_user_test_issues" type="collection">
+        <element choice="3" label="Enviornment" mandatory="true" max_length="40" name="enviornment" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Test" sequence="0" value="test"/>
+                <element inactive_on_update="false" label="UAT" sequence="1" value="uat"/>
+                <element inactive_on_update="false" label="PROD" sequence="2" value="prod"/>
+            </choice>
+        </element>
+        <element label="Full Description" mandatory="true" max_length="4000" name="full_description" type="string"/>
+        <element label="Notes" max_length="4000" name="notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Priority" mandatory="true" max_length="40" name="priority" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="High" sequence="0" value="high"/>
+                <element inactive_on_update="false" label="Medium" sequence="1" value="medium"/>
+                <element inactive_on_update="false" label="Low" sequence="2" value="low"/>
+            </choice>
+        </element>
+        <element default="javascript:gs.getUserID();" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Reported By" mandatory="true" max_length="32" name="reported_by" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <element label="Role/User to Impersonate" mandatory="true" max_length="40" name="role_user_to_impersonate" type="string"/>
+        <element label="Steps to Recreate" mandatory="true" max_length="4000" name="steps_to_recreate" type="string"/>
+        <element label="Summary of Issue" mandatory="true" max_length="40" name="summary_of_issue" type="string"/>
+        <index name="index">
+            <element name="reported_by"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Report Upgrade Testing Issues">df39d72d470302108c4657f1d16d4368</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-27 15:27:31</sys_created_on>
+        <sys_id>1bdb9bed470302108c4657f1d16d438f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Report Upgrade Testing Issues</sys_name>
+        <sys_package display_value="Upgrade User Testing Issues" source="x_1307177_upgrad_0">f3f31f65470302108c4657f1d16d43e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Upgrade User Testing Issues">f3f31f65470302108c4657f1d16d43e2</sys_scope>
+        <sys_update_name>sc_cat_item_category_1bdb9bed470302108c4657f1d16d438f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-27 15:27:31</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Upgrade User Testing Issues">f3f31f65470302108c4657f1d16d43e2</application>
+        <file_path/>
+        <instance_id>3941539a1b76f5149377eb9b2d4bcbd4</instance_id>
+        <instance_name>dev231074</instance_name>
+        <name>sc_cat_item_category_1bdb9bed470302108c4657f1d16d438f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Report Upgrade Testing Issues">df39d72d470302108c4657f1d16d4368</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-27 15:27:31</sys_created_on><sys_id>1bdb9bed470302108c4657f1d16d438f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Report Upgrade Testing Issues</sys_name><sys_package display_value="Upgrade User Testing Issues" source="x_1307177_upgrad_0">f3f31f65470302108c4657f1d16d43e2</sys_package><sys_policy/><sys_scope display_value="Upgrade User Testing Issues">f3f31f65470302108c4657f1d16d43e2</sys_scope><sys_update_name>sc_cat_item_category_1bdb9bed470302108c4657f1d16d438f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-27 15:27:31</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1369926870</payload_hash>
+        <record_name>Can We Help You?.Report Upgrade Testing Issues</record_name>
+        <reverted_from/>
+        <source>bff31f65470302108c4657f1d16d43f2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-27 15:27:31</sys_created_on>
+        <sys_id>57db9bed470302108c4657f1d16d4393</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1905a4f1a550000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-27 15:27:31</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>d7db9bedf90302105120609a1d7dad92</update_guid>
+        <update_guid_history>d7db9bedf90302105120609a1d7dad92:-1369926870</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Report Upgrade Testing Issues">011c9fed470302108c4657f1d16d43e4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-27 15:28:28</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>13fd5b25f02240b48597b0de088786e1</sys_id>
+        <sys_metadata>1bdb9bed470302108c4657f1d16d438f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Report Upgrade Testing Issues</sys_name>
+        <sys_package display_value="Upgrade User Testing Issues" source="x_1307177_upgrad_0">f3f31f65470302108c4657f1d16d43e2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Upgrade User Testing Issues">f3f31f65470302108c4657f1d16d43e2</sys_scope>
+        <sys_scope_delete display_value="">739d58292cef4fa4adecaa02c8cb0e64</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_1bdb9bed470302108c4657f1d16d438f</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_1bdb9bed470302108c4657f1d16d438f">57db9bed470302108c4657f1d16d4393</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-27 15:28:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
